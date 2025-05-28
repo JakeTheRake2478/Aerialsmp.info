@@ -6,63 +6,64 @@
   <title>Aerial SMP</title>
   <style>
     :root {
-      --mint-green: #98FF98;
-      --rose-red: #FF007F;
-      --cyan-blue: #00FFFF;
-      --bg: #f0f0f0;
-      --text: #222;
+      --mint: #98ff98;
+      --rose: #ff4f81;
+      --cyan: #00ffff;
+      --dark: #101820;
     }
 
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      animation: fadeIn 1.5s ease-in;
-    }
-
-    header {
-      background: var(--mint-green);
-      padding: 2rem;
-      text-align: center;
+      background: var(--dark);
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+      animation: fadeIn 2s ease-in;
     }
 
     h1 {
-      margin: 0;
-      font-size: 3rem;
-      color: var(--rose-red);
+      font-size: 3em;
+      background: linear-gradient(90deg, var(--mint), var(--rose), var(--cyan));
+      -webkit-background-clip: text;
+      color: transparent;
     }
 
-    .subtitle {
-      font-size: 1.5rem;
-      color: var(--cyan-blue);
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      text-align: center;
     }
 
-    section {
-      padding: 2rem;
-    }
-
-    a.button {
-      display: inline-block;
-      background: var(--rose-red);
-      color: white;
-      padding: 1rem 2rem;
+    a {
+      color: var(--cyan);
       text-decoration: none;
-      border-radius: 5px;
-      transition: background 0.3s;
+      margin-top: 20px;
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: var(--mint);
+      color: black;
+      border-radius: 10px;
+      transition: 0.3s;
     }
 
-    a.button:hover {
-      background: #cc0066;
+    a:hover {
+      background-color: var(--rose);
+      color: white;
     }
 
     @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
     }
   </style>
 </head>
 <body>
-
-  <header>
-    <h1>Aerial SMP</h
+  <h1>🌤️ Aerial SMP</h1>
+  <p>Welcome to Aerial SMP — a custom-modded multiplayer Minecraft server focused on creativity, economy, and community. Java and Bedrock players unite!</p>
+  <a href="README.md">📖 View README</a>
+</body>
+</html>
