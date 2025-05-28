@@ -22,7 +22,7 @@ Aerial SMP is a semi-vanilla Minecraft experience enhanced with unique plugins, 
 
 1. Make sure you're using Minecraft version `1.21.5` Or higher on, Java / Bedrock
 2. Add the server IP: `aerialsmp.aternos.me`
-3. Add the server PORt: '42865' (if bedrock)
+3. Add the server PORT: `42865` (if bedrock)
 4. Join our Discord for whitelisting and updates.
 
 ## 🤝 Contributing
