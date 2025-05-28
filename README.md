@@ -16,7 +16,7 @@ Aerial SMP is a semi-vanilla Minecraft experience enhanced with unique plugins, 
 ## 🗂 Useful Links
 
 - 📖 [Wiki](https://aerialsmp.fandom.com/wiki/AerialSMP_Wiki)
-- 📬 [Contact & Support](jacks92780912@gmail.com)
+- 📬 [Contact & Support] jacks92780912@gmail.com
 
 ## 📦 Installation & Joining
 
