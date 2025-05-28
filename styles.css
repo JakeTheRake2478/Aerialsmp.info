@@ -15,10 +15,21 @@ body {
   text-align: center;
 }
 
-h1 {
-  font-size: 3em;
-  color: var(--mint);
-  margin-top: 40px;
+/* Animated Gradient Logo */
+h1.aerial-logo {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: bold;
+  background: linear-gradient(90deg, var(--cyan), var(--rose), var(--mint));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: fadeIn 1s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .subtitle {
