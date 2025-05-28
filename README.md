@@ -13,10 +13,12 @@ Aerial SMP offers a semi-vanilla Minecraft experience enhanced by quality-of-lif
 🧙 Unique Roles & Player Tags
 🛡️ PvE-Focused (PvP Optional)
 🌐 Full Java & Bedrock Crossplay Support
+
 🔗 Useful Links
 
 📖 Wiki https://aerialsmp.fandom.com
 📬 Contact & Support: jacks92780912@gmail.com
+
 📦 Installation & Joining
 
 Use Minecraft version 1.21.5 or higher (Java or Bedrock).
