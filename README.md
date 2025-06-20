@@ -12,7 +12,7 @@ Aerial SMP offers a semi-vanilla Minecraft experience enhanced by quality-of-lif
 🏙 Land Claims & Grief Prevention
 🧙 Unique Roles & Player Tags
 🛡️ PvE-Focused (PvP Optional)
-🌐 Full Java & Bedrock Crossplay Support
+🌐  Java & Semi Bedrock Crossplay Support
 
 🔗 Useful Links
 
